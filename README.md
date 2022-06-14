@@ -39,4 +39,8 @@ will affect the production and price of food
 
 The following modules are implemented on Jupyter-notebook and GUI as well
 
+# Project Report
+[Click Here](https://drive.google.com/file/d/1fOjyouGvri8cY2wlOmst4K3l01KyrVnL/view?usp=sharing)
 
+# Contributor
+[Swaroop Rangle](https://github.com/swaroop002)
